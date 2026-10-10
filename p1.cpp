@@ -38,7 +38,7 @@ int main() {
 
     std::string name = "Keith";
     std::string food = "Biryaani";
-    std::string address = "Saddsgit adddar";
+    std::string address = "Saddar";
     
     std::cout << "Hello " << name << '\n';
     std::cout << "Aou are " << age << " years old";
