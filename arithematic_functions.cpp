@@ -8,7 +8,7 @@ int main(){
     const int LIGHT_SPEED = 299792458;
     const int WIDTH = 1920;
     const int HEIGHT = 1080;
-    const string PLAYER_RACE = "Human"; 
+    const string PLAYER_RACE = "Troll"; 
 
 
     std::cout << circumference << "cm";
