@@ -13,10 +13,10 @@ namespace second{
 }
 
 int main(){
-   
+    using namespace std;
     int x = 0;
 
-    std::cout << second ::x;
+    cout << second ::x;
 
     return 0;
 }
