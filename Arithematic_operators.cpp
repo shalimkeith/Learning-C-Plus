@@ -33,7 +33,7 @@ int main(){
 // multiplication and division 
 // subtraction and addition
 
-    int students = 6 - 5 + (4 * 3) / 4;
+    int students = 6 - 5 + (4 * 3) / 4 -2 ;
 
     std::cout << students;
 
